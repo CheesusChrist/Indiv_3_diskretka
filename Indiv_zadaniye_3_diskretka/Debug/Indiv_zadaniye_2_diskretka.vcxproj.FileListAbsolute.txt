@@ -1,0 +1,2 @@
+D:\C++\KubGU\Indiv_zadaniye_3_diskretka\Debug\Indiv_zadaniye_3_diskretka.exe
+D:\C++\KubGU\Indiv_zadaniye_3_diskretka\Debug\Indiv_zadaniye_3_diskretka.pdb
